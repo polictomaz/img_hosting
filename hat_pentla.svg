@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="515" height="515">
-	<title>Nov projekt</title>
-	<defs>
-		<image  width="36" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAPCAMAAAC7tZ1fAAAAAXNSR0IB2cksfwAAAbBQTFRFgf+Bx7TTyLDUn/+fQv9CC/8LAAAADv8OYv9ip/+nx7fSyarVa/9rqP+oyYDcx7XSm/+bQv9CDP8MDf8NXv9erP+syafWhv+GWf9Zw8fMbv9uBv8GI/8jHf8dG/8bJf8lGv8ai/+LyLLTKv8qEf8Rj/+PCv8Kdv92nx7AQv9CGf8Zqf+ptPS1AP8AxcDOrf+tR/9HEv8Syobckf+Ro/+jUv9SoCTBgv+Cpf+lbf9tpTrCfv9+x7TTyabXG/8brnHDMP8wlP+UD/8Pp/+nVP9UeP94Nf81bP9suue9uui9AP8AXf9dw8zLlP+USf9JAP8AKP8ohf+Fkv+Skf+Rev96Jv8mEf8RcP9wnv+eypbaov+ipP+kiv+KP/8/Ev8SGP8YWP9Yjv+Orf+tgP+Aev96tfK3j/+PYP9gFf8VHf8ddf91l/+Xv9jFYv9iDP8MJ/8nPv8+K/8rK/8rdv92fv9+i/+LhP+Eff99av9qGv8aOP84AP8AHf8dDv8OM/8zcf9xu/+7zP/M7f/t/////v/+5P/kyP/Ir/+vX/9fPf89UP9Quv+65f/l1//Xqf+pOf85jnIyYAAAAJB0Uk5TbO7sp2cbAC14tevvNLD/8KllFih4tfhldOOAFjFRUCQplvE1F5QJav8vGLblA+W+WjP+j6pS/2CzVv5o7fdP/ECfHsEdfzc66e4EdfqgQAINapWTYgUHUrj/p9J/PwkUTZPlXIXvmk4aJl2t+j4pJgEIBwUCAQEAAAAABiofCAcEAAAAAAAAAAAAAwAAAAAA/bxAawAAAQRJREFUeJxjYGBkYmZhZcMB2Dk4ubh5GHj5QIBfQFAIXYGwiKgYWFKcQYIPBiSlpIFSMrJy8kBKQVEJLqHMoMKHBFTV1DWAQFNLG0lQR5eBTQ9Zlb4BSJGhEbKYMRsDmwmyAJ+pGUgVipA5UJEFioilFYYia6AiG2QBWzugEnsHFEWObAxOyHxnF1eQQW7uHkiCnl4M3nCOj6+fP1tAYFBwSChbWHhEJFxChiEKwoiOiY1DDcv4hMQkiFwyQwofX2paegb2WMnMys7h48tlYMvL94eJFRQWFZeUlpVXVFbB1VXX1AJ9BwN19Q2NTc0Q0NLa1t7RCZeCKerq7mlGA719/VBJACzORgr5jP71AAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="svg (5)" href="#img1" x="80" y="24"/>
-</svg>
